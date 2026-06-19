@@ -1,0 +1,17 @@
+{
+ "amount": 4,
+ "inventory": {
+  "Cocaine1": {
+   "value": 50
+  },
+  "Cocaine2": {
+   "value": 50
+  },
+  "Cocaine3": {
+   "value": 50
+  },
+  "Cocaine4": {
+   "value": 50
+  }
+ }
+}
