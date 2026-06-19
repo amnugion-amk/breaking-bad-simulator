@@ -22,7 +22,7 @@ void addProduct(int value, std::string name) {
 
     std::ofstream outFile(inventoryPath);
     if (outFile.is_open()) {
-        outFile << inventory.dump(1);
+        outFile << inventory.dump(4);
         outFile.close();
     } 
     else {
